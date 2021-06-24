@@ -1,4 +1,4 @@
-# Tarski's World Practice
+# Tarski's World Exercises
 The Semantics of First-Order Logic
 
 Stanford University
