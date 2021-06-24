@@ -1,0 +1,3 @@
+7.2.5.30971wnds:Windows 1010.0SntFC1624557148819D1624557451420S872310 @x (Cube(x) $ @y (Tet(y) $ LeftOf(x,y))) @x ((Cube(x) & Small(x)) $ (/y(Cube(y) & Large(y)  &  BackOf(x,y)))) /x (Cube(x) & @y (Tet(y)  $ FrontOf(x,y))) /x (Cube(x) & Large(x) & /y ((Cube(y)  & Small(y)) & FrontOf(x,y))) @x ~(@y Larger(x,y)) @x ((Cube(x) &  @y(Tet(y)  $ FrontOf(x,y))) $ 
+ Large(x)) @x ((/y(Cube(y) & Large(y) & RightOf(x,y))) $ Small(x)) @x (((/y(Cube(y) & BackOf(x,y))) & 
+      (/z(Cube(z) & FrontOf(x,z)))) $ ~Large(x)) @x (~/ y(BackOf(y,x)) $ Cube(x)) @x (Dodec(x) $/y(Tet(y)  & Smaller(x,y))  )s=98301;
