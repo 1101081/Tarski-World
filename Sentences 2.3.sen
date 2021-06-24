@@ -1,0 +1,1 @@
+7.2.5.30971wnds:Windows 1010.0SntFC1624543063014D1624543556913S88516Cube(a) & (Cube(b) | Dodec(b))(Tet(a) & Small(a) )$ BackOf(a, b)(Cube(c) & Small(c) )& LeftOf(c, b)(Tet(a) $ Small(a) )| Medium(a)(Tet(a) % Cube(b)) % Dodec(c)Between(c,b,a)s=40203;
