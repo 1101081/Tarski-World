@@ -1,0 +1,1 @@
+7.2.5.30971wnds:Windows 1010.0SntFC1624526823438D1624526921415S858910@y ~Adjoins(y, y)/w (Tet(w) $ Large(w))Tet(a) $ /w Large(w)/w Tet(w) $ @w Large(w)/x Large(x) $ @y@x~Larger(y, x)@x @y ((Cube(x) & Cube(y)) $ ~Larger(x, y))@x Cube(a)@x/y Tet(y) $ /x Small(x)/x/y@z((Tet(x) & Tet(y)) $ Between(z, x, y))@x(Tet(x) & Large(x)) & /x@y LeftOf(x, y)s=57601;
