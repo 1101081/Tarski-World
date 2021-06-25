@@ -1,0 +1,4 @@
+7.2.5.30971wnds:Windows 1010.0SntFC1624558421544D1624584213461D1624585020625D1624585096379D1624585172868D1624585736736D1624586389269D1624586635163S2180410(LeftOf(a, b) | BackOf(a, b)) & Cube(a)(LeftOf(a, b)  &  Cube(a))  |  (BackOf(a, b)  &  Cube(a))
+; Write a sentence in disjunctive normal form (DNF)
+; that is logically equivalent to the CNF sentence
+; in (1).  Do the same thing for the sentences below.Larger(a, b) & (Cube(a) | Tet(a) | a = b)(Larger(a, b) & Cube(a)) | (Larger(a, b) & Tet(a)) | (Larger(a, b) & a = b)(Between(a, b, c) | Tet(a) | ~Tet(b)) & Dodec(c)(Between(a, b, c)  & Dodec(c))|(Tet(a) & Dodec(c)) | ( ~Tet(b) & Dodec(c))Cube(a) & Cube(b) & (~Small(a) | ~Small(b))(Cube(a) & Cube(b)   & ~Small(a)) | (Cube(a) & Cube(b) & ~Small(b))(Small(a) | Medium(a)) & (Cube(a) | ~Dodec(a))((Small(a)&Cube(a)) | (Medium(a) &Cube(a))) | ((Small(a)& ~Dodec(a)) | (Medium(a)& ~Dodec(a)))s=146587;
